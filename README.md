@@ -1,8 +1,8 @@
 # Image Processing
 1. Import the necessary packages (imutils and cv2)
-2. Load the image and show its dimensions \n
-Note: Images are represented as a multi-dimensional NumPy array with shape:
-                   no. rows (height) * no. columns (width) * no. channels (depth)
+2. Load the image and show its dimensions                                                                                                                                                                                                                                                                                            
+Note: Images are represented as a multi-dimensional NumPy array with shape:                                                         
+                   no. rows (height) * no. columns (width) * no. channels (depth)                                              
 3. Display the image - click the window
 4. Access the RGB pixel at x=50, y=100
 5. Extract a 100 * 100 pixel square ROI - starting at x=320, y=60, ending at x=420, y=160
