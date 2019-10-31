@@ -1,6 +1,6 @@
 # Image Processing
 1. Import the necessary packages (imutils and cv2)
-2. Load the image and show its dimensions
+2. Load the image and show its dimensions \n
 Note: Images are represented as a multi-dimensional NumPy array with shape:
                    no. rows (height) * no. columns (width) * no. channels (depth)
 3. Display the image - click the window
